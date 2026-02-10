@@ -38,6 +38,7 @@ Contributions are always welcome!
 ### Kernel
 
 - [ ] [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
+- [ ] [Kernal Space and User Space Basics](https://medium.com/@shahneel2409/userspace-vs-kernel-space-a-comprehensive-guide-8f9b96cd6426)
 - [ ] [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
 - [ ] [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html)
 - [ ] [Linux Process states](https://www.baeldung.com/linux/process-states)
